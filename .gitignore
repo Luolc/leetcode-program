@@ -1,0 +1,8 @@
+# JetBrains IDEA
+.idea
+
+# MacOS
+.DS_Store
+
+# PhantomJS WebDriver
+ghostdriver.log
