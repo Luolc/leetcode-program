@@ -14,13 +14,17 @@ class LocalResource:
     def get_solved_questions():
         questions = LocalResource.get_questions()
         # Solved questions are which listed in '/res/solutions/' directory.
-        solved_questions = list(map(lambda x: int(x), os.listdir(Constant.SOLUTIONS_PATH)))
-        solved_questions = list(filter(lambda x: x['number'] in solved_questions, questions))
+        try:
+            solved_questions = list(map(lambda x: int(x), os.listdir(Constant.SOLUTIONS_PATH)))
+        except FileNotFoundError:
+            solved_questions = []
+
+        solved_questions = list(filter(lambda q: q['number'] in solved_questions, questions))
         return solved_questions
 
     @staticmethod
     def get_unsolved_questions():
         questions = LocalResource.get_questions()
-        solved_questions = list(map(lambda x: int(x), os.listdir(Constant.SOLUTIONS_PATH)))
-        unsolved_questions = list(filter(lambda x: x['number'] not in solved_questions, questions))
+        solved_questions = list(map(lambda q: q['number'], LocalResource.get_solved_questions()))
+        unsolved_questions = list(filter(lambda q: q['number'] not in solved_questions, questions))
         return unsolved_questions
