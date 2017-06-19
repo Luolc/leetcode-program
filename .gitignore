@@ -6,3 +6,5 @@
 
 # PhantomJS WebDriver
 ghostdriver.log
+
+core/__pycache__
