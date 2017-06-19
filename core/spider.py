@@ -21,7 +21,7 @@ class Spider:
             name = q.find_element_by_xpath(r"td[3]//a").text
             difficulty = q.find_element_by_xpath(r"td[6]").text
             questions.append({
-                'number': number,
+                'number': int(number),
                 'url': url,
                 'name': name,
                 'difficulty': difficulty
