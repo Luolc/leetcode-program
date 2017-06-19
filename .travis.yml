@@ -1,0 +1,12 @@
+language: python
+
+python:
+  - "3.6"
+
+install:
+  - pip install -r requirements.txt
+
+script: pytest test
+
+after_success:
+  - if [[ $TRAVIS_EVENT_TYPE = cron ]]; then python3 core/core.py create_daily_task --token=$GITHUB_TOKEN; fi

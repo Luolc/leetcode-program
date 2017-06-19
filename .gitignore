@@ -7,4 +7,5 @@
 # PhantomJS WebDriver
 ghostdriver.log
 
-core/__pycache__
+__pycache__/
+.secret

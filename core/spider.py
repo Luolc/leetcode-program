@@ -2,14 +2,14 @@ from selenium import webdriver
 
 
 class Spider:
-    URL = 'https://leetcode.com/problemset/algorithms/'
+    __URL__ = 'https://leetcode.com/problemset/algorithms/'
 
     def __init__(self, js_path='plantomjs'):
         self.__js_path__ = js_path
 
     def fetch_questions(self):
         driver = webdriver.PhantomJS(self.__js_path__)
-        driver.get(self.URL)
+        driver.get(self.__URL__)
         # Show all the problems
         driver.find_element_by_xpath(r"//span[@class='row-selector']/select[@class='form-control']").send_keys('all')
         questions = []
