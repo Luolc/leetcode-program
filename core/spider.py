@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 
 
 class Spider:
@@ -16,6 +17,15 @@ class Spider:
         question_amount = 0
         for q in driver.find_elements_by_xpath(
                 r"//table[@class='table table-striped']//tbody[@class='reactable-data']//tr"):
+            locked = True
+            try:
+                q.find_element_by_xpath(r"td[3]//i")
+            except NoSuchElementException:
+                locked = False
+            # Ignore the locked questions since we are poor. :-(
+            if locked:
+                continue
+
             number = q.find_element_by_xpath(r"td[2]").text
             url = q.find_element_by_xpath(r"td[3]//a").get_attribute('href')
             name = q.find_element_by_xpath(r"td[3]//a").text

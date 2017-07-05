@@ -930,30 +930,6 @@
     "url": "https://leetcode.com/problems/min-stack"
   },
   {
-    "difficulty": "Medium",
-    "name": "Binary Tree Upside Down",
-    "number": 156,
-    "url": "https://leetcode.com/problems/binary-tree-upside-down"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Read N Characters Given Read4",
-    "number": 157,
-    "url": "https://leetcode.com/problems/read-n-characters-given-read4"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Read N Characters Given Read4 II - Call multiple times",
-    "number": 158,
-    "url": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Longest Substring with At Most Two Distinct Characters",
-    "number": 159,
-    "url": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters"
-  },
-  {
     "difficulty": "Easy",
     "name": "Intersection of Two Linked Lists",
     "number": 160,
@@ -961,21 +937,9 @@
   },
   {
     "difficulty": "Medium",
-    "name": "One Edit Distance",
-    "number": 161,
-    "url": "https://leetcode.com/problems/one-edit-distance"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Find Peak Element",
     "number": 162,
     "url": "https://leetcode.com/problems/find-peak-element"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Missing Ranges",
-    "number": 163,
-    "url": "https://leetcode.com/problems/missing-ranges"
   },
   {
     "difficulty": "Hard",
@@ -1015,12 +979,6 @@
   },
   {
     "difficulty": "Easy",
-    "name": "Two Sum III - Data structure design",
-    "number": 170,
-    "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design"
-  },
-  {
-    "difficulty": "Easy",
     "name": "Excel Sheet Column Number",
     "number": 171,
     "url": "https://leetcode.com/problems/excel-sheet-column-number"
@@ -1048,12 +1006,6 @@
     "name": "Largest Number",
     "number": 179,
     "url": "https://leetcode.com/problems/largest-number"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Reverse Words in a String II",
-    "number": 186,
-    "url": "https://leetcode.com/problems/reverse-words-in-a-string-ii"
   },
   {
     "difficulty": "Medium",
@@ -1357,90 +1309,6 @@
   },
   {
     "difficulty": "Easy",
-    "name": "Shortest Word Distance",
-    "number": 243,
-    "url": "https://leetcode.com/problems/shortest-word-distance"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Shortest Word Distance II",
-    "number": 244,
-    "url": "https://leetcode.com/problems/shortest-word-distance-ii"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Shortest Word Distance III",
-    "number": 245,
-    "url": "https://leetcode.com/problems/shortest-word-distance-iii"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Strobogrammatic Number",
-    "number": 246,
-    "url": "https://leetcode.com/problems/strobogrammatic-number"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Strobogrammatic Number II",
-    "number": 247,
-    "url": "https://leetcode.com/problems/strobogrammatic-number-ii"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Strobogrammatic Number III",
-    "number": 248,
-    "url": "https://leetcode.com/problems/strobogrammatic-number-iii"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Group Shifted Strings",
-    "number": 249,
-    "url": "https://leetcode.com/problems/group-shifted-strings"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Count Univalue Subtrees",
-    "number": 250,
-    "url": "https://leetcode.com/problems/count-univalue-subtrees"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Flatten 2D Vector",
-    "number": 251,
-    "url": "https://leetcode.com/problems/flatten-2d-vector"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Meeting Rooms",
-    "number": 252,
-    "url": "https://leetcode.com/problems/meeting-rooms"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Meeting Rooms II",
-    "number": 253,
-    "url": "https://leetcode.com/problems/meeting-rooms-ii"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Factor Combinations",
-    "number": 254,
-    "url": "https://leetcode.com/problems/factor-combinations"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Verify Preorder Sequence in Binary Search Tree",
-    "number": 255,
-    "url": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Paint House",
-    "number": 256,
-    "url": "https://leetcode.com/problems/paint-house"
-  },
-  {
-    "difficulty": "Easy",
     "name": "Binary Tree Paths",
     "number": 257,
     "url": "https://leetcode.com/problems/binary-tree-paths"
@@ -1453,21 +1321,9 @@
   },
   {
     "difficulty": "Medium",
-    "name": "3Sum Smaller",
-    "number": 259,
-    "url": "https://leetcode.com/problems/3sum-smaller"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Single Number III",
     "number": 260,
     "url": "https://leetcode.com/problems/single-number-iii"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Graph Valid Tree",
-    "number": 261,
-    "url": "https://leetcode.com/problems/graph-valid-tree"
   },
   {
     "difficulty": "Easy",
@@ -1482,52 +1338,10 @@
     "url": "https://leetcode.com/problems/ugly-number-ii"
   },
   {
-    "difficulty": "Hard",
-    "name": "Paint House II",
-    "number": 265,
-    "url": "https://leetcode.com/problems/paint-house-ii"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Palindrome Permutation",
-    "number": 266,
-    "url": "https://leetcode.com/problems/palindrome-permutation"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Palindrome Permutation II",
-    "number": 267,
-    "url": "https://leetcode.com/problems/palindrome-permutation-ii"
-  },
-  {
     "difficulty": "Easy",
     "name": "Missing Number",
     "number": 268,
     "url": "https://leetcode.com/problems/missing-number"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Alien Dictionary",
-    "number": 269,
-    "url": "https://leetcode.com/problems/alien-dictionary"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Closest Binary Search Tree Value",
-    "number": 270,
-    "url": "https://leetcode.com/problems/closest-binary-search-tree-value"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Encode and Decode Strings",
-    "number": 271,
-    "url": "https://leetcode.com/problems/encode-and-decode-strings"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Closest Binary Search Tree Value II",
-    "number": 272,
-    "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii"
   },
   {
     "difficulty": "Hard",
@@ -1549,18 +1363,6 @@
   },
   {
     "difficulty": "Easy",
-    "name": "Paint Fence",
-    "number": 276,
-    "url": "https://leetcode.com/problems/paint-fence"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Find the Celebrity",
-    "number": 277,
-    "url": "https://leetcode.com/problems/find-the-celebrity"
-  },
-  {
-    "difficulty": "Easy",
     "name": "First Bad Version",
     "number": 278,
     "url": "https://leetcode.com/problems/first-bad-version"
@@ -1570,18 +1372,6 @@
     "name": "Perfect Squares",
     "number": 279,
     "url": "https://leetcode.com/problems/perfect-squares"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Wiggle Sort",
-    "number": 280,
-    "url": "https://leetcode.com/problems/wiggle-sort"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Zigzag Iterator",
-    "number": 281,
-    "url": "https://leetcode.com/problems/zigzag-iterator"
   },
   {
     "difficulty": "Hard",
@@ -1603,27 +1393,9 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Inorder Successor in BST",
-    "number": 285,
-    "url": "https://leetcode.com/problems/inorder-successor-in-bst"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Walls and Gates",
-    "number": 286,
-    "url": "https://leetcode.com/problems/walls-and-gates"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Find the Duplicate Number",
     "number": 287,
     "url": "https://leetcode.com/problems/find-the-duplicate-number"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Unique Word Abbreviation",
-    "number": 288,
-    "url": "https://leetcode.com/problems/unique-word-abbreviation"
   },
   {
     "difficulty": "Medium",
@@ -1638,28 +1410,10 @@
     "url": "https://leetcode.com/problems/word-pattern"
   },
   {
-    "difficulty": "Hard",
-    "name": "Word Pattern II",
-    "number": 291,
-    "url": "https://leetcode.com/problems/word-pattern-ii"
-  },
-  {
     "difficulty": "Easy",
     "name": "Nim Game",
     "number": 292,
     "url": "https://leetcode.com/problems/nim-game"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Flip Game",
-    "number": 293,
-    "url": "https://leetcode.com/problems/flip-game"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Flip Game II",
-    "number": 294,
-    "url": "https://leetcode.com/problems/flip-game-ii"
   },
   {
     "difficulty": "Hard",
@@ -1669,21 +1423,9 @@
   },
   {
     "difficulty": "Hard",
-    "name": "Best Meeting Point",
-    "number": 296,
-    "url": "https://leetcode.com/problems/best-meeting-point"
-  },
-  {
-    "difficulty": "Hard",
     "name": "Serialize and Deserialize Binary Tree",
     "number": 297,
     "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Binary Tree Longest Consecutive Sequence",
-    "number": 298,
-    "url": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence"
   },
   {
     "difficulty": "Medium",
@@ -1704,12 +1446,6 @@
     "url": "https://leetcode.com/problems/remove-invalid-parentheses"
   },
   {
-    "difficulty": "Hard",
-    "name": "Smallest Rectangle Enclosing Black Pixels",
-    "number": 302,
-    "url": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels"
-  },
-  {
     "difficulty": "Easy",
     "name": "Range Sum Query - Immutable",
     "number": 303,
@@ -1720,12 +1456,6 @@
     "name": "Range Sum Query 2D - Immutable",
     "number": 304,
     "url": "https://leetcode.com/problems/range-sum-query-2d-immutable"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Number of Islands II",
-    "number": 305,
-    "url": "https://leetcode.com/problems/number-of-islands-ii"
   },
   {
     "difficulty": "Medium",
@@ -1740,12 +1470,6 @@
     "url": "https://leetcode.com/problems/range-sum-query-mutable"
   },
   {
-    "difficulty": "Hard",
-    "name": "Range Sum Query 2D - Mutable",
-    "number": 308,
-    "url": "https://leetcode.com/problems/range-sum-query-2d-mutable"
-  },
-  {
     "difficulty": "Medium",
     "name": "Best Time to Buy and Sell Stock with Cooldown",
     "number": 309,
@@ -1756,12 +1480,6 @@
     "name": "Minimum Height Trees",
     "number": 310,
     "url": "https://leetcode.com/problems/minimum-height-trees"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Sparse Matrix Multiplication",
-    "number": 311,
-    "url": "https://leetcode.com/problems/sparse-matrix-multiplication"
   },
   {
     "difficulty": "Hard",
@@ -1776,12 +1494,6 @@
     "url": "https://leetcode.com/problems/super-ugly-number"
   },
   {
-    "difficulty": "Medium",
-    "name": "Binary Tree Vertical Order Traversal",
-    "number": 314,
-    "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
-  },
-  {
     "difficulty": "Hard",
     "name": "Count of Smaller Numbers After Self",
     "number": 315,
@@ -1794,12 +1506,6 @@
     "url": "https://leetcode.com/problems/remove-duplicate-letters"
   },
   {
-    "difficulty": "Hard",
-    "name": "Shortest Distance from All Buildings",
-    "number": 317,
-    "url": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
-  },
-  {
     "difficulty": "Medium",
     "name": "Maximum Product of Word Lengths",
     "number": 318,
@@ -1810,12 +1516,6 @@
     "name": "Bulb Switcher",
     "number": 319,
     "url": "https://leetcode.com/problems/bulb-switcher"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Generalized Abbreviation",
-    "number": 320,
-    "url": "https://leetcode.com/problems/generalized-abbreviation"
   },
   {
     "difficulty": "Hard",
@@ -1831,21 +1531,9 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Number of Connected Components in an Undirected Graph",
-    "number": 323,
-    "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Wiggle Sort II",
     "number": 324,
     "url": "https://leetcode.com/problems/wiggle-sort-ii"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Maximum Size Subarray Sum Equals k",
-    "number": 325,
-    "url": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k"
   },
   {
     "difficulty": "Easy",
@@ -1891,12 +1579,6 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Largest BST Subtree",
-    "number": 333,
-    "url": "https://leetcode.com/problems/largest-bst-subtree"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Increasing Triplet Subsequence",
     "number": 334,
     "url": "https://leetcode.com/problems/increasing-triplet-subsequence"
@@ -1924,18 +1606,6 @@
     "name": "Counting Bits",
     "number": 338,
     "url": "https://leetcode.com/problems/counting-bits"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Nested List Weight Sum",
-    "number": 339,
-    "url": "https://leetcode.com/problems/nested-list-weight-sum"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Longest Substring with At Most K Distinct Characters",
-    "number": 340,
-    "url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
   },
   {
     "difficulty": "Medium",
@@ -1968,22 +1638,10 @@
     "url": "https://leetcode.com/problems/reverse-vowels-of-a-string"
   },
   {
-    "difficulty": "Easy",
-    "name": "Moving Average from Data Stream",
-    "number": 346,
-    "url": "https://leetcode.com/problems/moving-average-from-data-stream"
-  },
-  {
     "difficulty": "Medium",
     "name": "Top K Frequent Elements",
     "number": 347,
     "url": "https://leetcode.com/problems/top-k-frequent-elements"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Design Tic-Tac-Toe",
-    "number": 348,
-    "url": "https://leetcode.com/problems/design-tic-tac-toe"
   },
   {
     "difficulty": "Easy",
@@ -1998,22 +1656,10 @@
     "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii"
   },
   {
-    "difficulty": "Medium",
-    "name": "Android Unlock Patterns",
-    "number": 351,
-    "url": "https://leetcode.com/problems/android-unlock-patterns"
-  },
-  {
     "difficulty": "Hard",
     "name": "Data Stream as Disjoint Intervals",
     "number": 352,
     "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Design Snake Game",
-    "number": 353,
-    "url": "https://leetcode.com/problems/design-snake-game"
   },
   {
     "difficulty": "Hard",
@@ -2029,45 +1675,9 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Line Reflection",
-    "number": 356,
-    "url": "https://leetcode.com/problems/line-reflection"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Count Numbers with Unique Digits",
     "number": 357,
     "url": "https://leetcode.com/problems/count-numbers-with-unique-digits"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Rearrange String k Distance Apart",
-    "number": 358,
-    "url": "https://leetcode.com/problems/rearrange-string-k-distance-apart"
-  },
-  {
-    "difficulty": "Easy",
-    "name": "Logger Rate Limiter",
-    "number": 359,
-    "url": "https://leetcode.com/problems/logger-rate-limiter"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Sort Transformed Array",
-    "number": 360,
-    "url": "https://leetcode.com/problems/sort-transformed-array"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Bomb Enemy",
-    "number": 361,
-    "url": "https://leetcode.com/problems/bomb-enemy"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Design Hit Counter",
-    "number": 362,
-    "url": "https://leetcode.com/problems/design-hit-counter"
   },
   {
     "difficulty": "Hard",
@@ -2077,21 +1687,9 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Nested List Weight Sum II",
-    "number": 364,
-    "url": "https://leetcode.com/problems/nested-list-weight-sum-ii"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Water and Jug Problem",
     "number": 365,
     "url": "https://leetcode.com/problems/water-and-jug-problem"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Find Leaves of Binary Tree",
-    "number": 366,
-    "url": "https://leetcode.com/problems/find-leaves-of-binary-tree"
   },
   {
     "difficulty": "Easy",
@@ -2104,18 +1702,6 @@
     "name": "Largest Divisible Subset",
     "number": 368,
     "url": "https://leetcode.com/problems/largest-divisible-subset"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Plus One Linked List",
-    "number": 369,
-    "url": "https://leetcode.com/problems/plus-one-linked-list"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Range Addition",
-    "number": 370,
-    "url": "https://leetcode.com/problems/range-addition"
   },
   {
     "difficulty": "Easy",
@@ -2164,12 +1750,6 @@
     "name": "Kth Smallest Element in a Sorted Matrix",
     "number": 378,
     "url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Design Phone Directory",
-    "number": 379,
-    "url": "https://leetcode.com/problems/design-phone-directory"
   },
   {
     "difficulty": "Medium",
@@ -2341,12 +1921,6 @@
   },
   {
     "difficulty": "Easy",
-    "name": "Valid Word Abbreviation",
-    "number": 408,
-    "url": "https://leetcode.com/problems/valid-word-abbreviation"
-  },
-  {
-    "difficulty": "Easy",
     "name": "Longest Palindrome",
     "number": 409,
     "url": "https://leetcode.com/problems/longest-palindrome"
@@ -2356,12 +1930,6 @@
     "name": "Split Array Largest Sum",
     "number": 410,
     "url": "https://leetcode.com/problems/split-array-largest-sum"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Minimum Unique Word Abbreviation",
-    "number": 411,
-    "url": "https://leetcode.com/problems/minimum-unique-word-abbreviation"
   },
   {
     "difficulty": "Easy",
@@ -2401,12 +1969,6 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Sentence Screen Fitting",
-    "number": 418,
-    "url": "https://leetcode.com/problems/sentence-screen-fitting"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Battleships in a Board",
     "number": 419,
     "url": "https://leetcode.com/problems/battleships-in-a-board"
@@ -2424,12 +1986,6 @@
     "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array"
   },
   {
-    "difficulty": "Easy",
-    "name": "Valid Word Square",
-    "number": 422,
-    "url": "https://leetcode.com/problems/valid-word-square"
-  },
-  {
     "difficulty": "Medium",
     "name": "Reconstruct Original Digits from English",
     "number": 423,
@@ -2440,12 +1996,6 @@
     "name": "Longest Repeating Character Replacement",
     "number": 424,
     "url": "https://leetcode.com/problems/longest-repeating-character-replacement"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Word Squares",
-    "number": 425,
-    "url": "https://leetcode.com/problems/word-squares"
   },
   {
     "difficulty": "Hard",
@@ -2484,12 +2034,6 @@
     "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
   },
   {
-    "difficulty": "Medium",
-    "name": "Ternary Expression Parser",
-    "number": 439,
-    "url": "https://leetcode.com/problems/ternary-expression-parser"
-  },
-  {
     "difficulty": "Hard",
     "name": "K-th Smallest in Lexicographical Order",
     "number": 440,
@@ -2506,12 +2050,6 @@
     "name": "Find All Duplicates in an Array",
     "number": 442,
     "url": "https://leetcode.com/problems/find-all-duplicates-in-an-array"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Sequence Reconstruction",
-    "number": 444,
-    "url": "https://leetcode.com/problems/sequence-reconstruction"
   },
   {
     "difficulty": "Medium",
@@ -2623,12 +2161,6 @@
   },
   {
     "difficulty": "Hard",
-    "name": "Optimal Account Balancing",
-    "number": 465,
-    "url": "https://leetcode.com/problems/optimal-account-balancing"
-  },
-  {
-    "difficulty": "Hard",
     "name": "Count The Repetitions",
     "number": 466,
     "url": "https://leetcode.com/problems/count-the-repetitions"
@@ -2644,18 +2176,6 @@
     "name": "Validate IP Address",
     "number": 468,
     "url": "https://leetcode.com/problems/validate-ip-address"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Convex Polygon",
-    "number": 469,
-    "url": "https://leetcode.com/problems/convex-polygon"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Encode String with Shortest Length",
-    "number": 471,
-    "url": "https://leetcode.com/problems/encode-string-with-shortest-length"
   },
   {
     "difficulty": "Hard",
@@ -2718,12 +2238,6 @@
     "url": "https://leetcode.com/problems/smallest-good-base"
   },
   {
-    "difficulty": "Medium",
-    "name": "Find Permutation",
-    "number": 484,
-    "url": "https://leetcode.com/problems/find-permutation"
-  },
-  {
     "difficulty": "Easy",
     "name": "Max Consecutive Ones",
     "number": 485,
@@ -2736,22 +2250,10 @@
     "url": "https://leetcode.com/problems/predict-the-winner"
   },
   {
-    "difficulty": "Medium",
-    "name": "Max Consecutive Ones II",
-    "number": 487,
-    "url": "https://leetcode.com/problems/max-consecutive-ones-ii"
-  },
-  {
     "difficulty": "Hard",
     "name": "Zuma Game",
     "number": 488,
     "url": "https://leetcode.com/problems/zuma-game"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "The Maze",
-    "number": 490,
-    "url": "https://leetcode.com/problems/the-maze"
   },
   {
     "difficulty": "Medium",
@@ -2796,12 +2298,6 @@
     "url": "https://leetcode.com/problems/diagonal-traverse"
   },
   {
-    "difficulty": "Hard",
-    "name": "The Maze III",
-    "number": 499,
-    "url": "https://leetcode.com/problems/the-maze-iii"
-  },
-  {
     "difficulty": "Easy",
     "name": "Keyboard Row",
     "number": 500,
@@ -2830,12 +2326,6 @@
     "name": "Base 7",
     "number": 504,
     "url": "https://leetcode.com/problems/base-7"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "The Maze II",
-    "number": 505,
-    "url": "https://leetcode.com/problems/the-maze-ii"
   },
   {
     "difficulty": "Easy",
@@ -2928,12 +2418,6 @@
     "url": "https://leetcode.com/problems/beautiful-arrangement"
   },
   {
-    "difficulty": "Hard",
-    "name": "Word Abbreviation",
-    "number": 527,
-    "url": "https://leetcode.com/problems/word-abbreviation"
-  },
-  {
     "difficulty": "Medium",
     "name": "Minesweeper",
     "number": 529,
@@ -2946,12 +2430,6 @@
     "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst"
   },
   {
-    "difficulty": "Medium",
-    "name": "Lonely Pixel I",
-    "number": 531,
-    "url": "https://leetcode.com/problems/lonely-pixel-i"
-  },
-  {
     "difficulty": "Easy",
     "name": "K-diff Pairs in an Array",
     "number": 532,
@@ -2959,21 +2437,9 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Lonely Pixel II",
-    "number": 533,
-    "url": "https://leetcode.com/problems/lonely-pixel-ii"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Encode and Decode TinyURL",
     "number": 535,
     "url": "https://leetcode.com/problems/encode-and-decode-tinyurl"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Construct Binary Tree from String",
-    "number": 536,
-    "url": "https://leetcode.com/problems/construct-binary-tree-from-string"
   },
   {
     "difficulty": "Medium",
@@ -3012,18 +2478,6 @@
     "url": "https://leetcode.com/problems/diameter-of-binary-tree"
   },
   {
-    "difficulty": "Medium",
-    "name": "Output Contest Matches",
-    "number": 544,
-    "url": "https://leetcode.com/problems/output-contest-matches"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Boundary of Binary Tree",
-    "number": 545,
-    "url": "https://leetcode.com/problems/boundary-of-binary-tree"
-  },
-  {
     "difficulty": "Hard",
     "name": "Remove Boxes",
     "number": 546,
@@ -3034,18 +2488,6 @@
     "name": "Friend Circles",
     "number": 547,
     "url": "https://leetcode.com/problems/friend-circles"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Split Array with Equal Sum",
-    "number": 548,
-    "url": "https://leetcode.com/problems/split-array-with-equal-sum"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Binary Tree Longest Consecutive Sequence II",
-    "number": 549,
-    "url": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii"
   },
   {
     "difficulty": "Easy",
@@ -3073,12 +2515,6 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Split Concatenated Strings",
-    "number": 555,
-    "url": "https://leetcode.com/problems/split-concatenated-strings"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Next Greater Element III",
     "number": 556,
     "url": "https://leetcode.com/problems/next-greater-element-iii"
@@ -3100,12 +2536,6 @@
     "name": "Array Partition I",
     "number": 561,
     "url": "https://leetcode.com/problems/array-partition-i"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Longest Line of Consecutive One in Matrix",
-    "number": 562,
-    "url": "https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix"
   },
   {
     "difficulty": "Easy",
@@ -3138,22 +2568,10 @@
     "url": "https://leetcode.com/problems/permutation-in-string"
   },
   {
-    "difficulty": "Hard",
-    "name": "Maximum Vacation Days",
-    "number": 568,
-    "url": "https://leetcode.com/problems/maximum-vacation-days"
-  },
-  {
     "difficulty": "Easy",
     "name": "Subtree of Another Tree",
     "number": 572,
     "url": "https://leetcode.com/problems/subtree-of-another-tree"
-  },
-  {
-    "difficulty": "Medium",
-    "name": "Squirrel Simulation",
-    "number": 573,
-    "url": "https://leetcode.com/problems/squirrel-simulation"
   },
   {
     "difficulty": "Easy",
@@ -3175,12 +2593,6 @@
   },
   {
     "difficulty": "Medium",
-    "name": "Kill Process",
-    "number": 582,
-    "url": "https://leetcode.com/problems/kill-process"
-  },
-  {
-    "difficulty": "Medium",
     "name": "Delete Operation for Two Strings",
     "number": 583,
     "url": "https://leetcode.com/problems/delete-operation-for-two-strings"
@@ -3190,12 +2602,6 @@
     "name": "Erect the Fence",
     "number": 587,
     "url": "https://leetcode.com/problems/erect-the-fence"
-  },
-  {
-    "difficulty": "Hard",
-    "name": "Design In-Memory File System",
-    "number": 588,
-    "url": "https://leetcode.com/problems/design-in-memory-file-system"
   },
   {
     "difficulty": "Hard",
@@ -3241,12 +2647,6 @@
   },
   {
     "difficulty": "Easy",
-    "name": "Design Compressed String Iterator",
-    "number": 604,
-    "url": "https://leetcode.com/problems/design-compressed-string-iterator"
-  },
-  {
-    "difficulty": "Easy",
     "name": "Can Place Flowers",
     "number": 605,
     "url": "https://leetcode.com/problems/can-place-flowers"
@@ -3270,12 +2670,6 @@
     "url": "https://leetcode.com/problems/valid-triangle-number"
   },
   {
-    "difficulty": "Medium",
-    "name": "Add Bold Tag in String",
-    "number": 616,
-    "url": "https://leetcode.com/problems/add-bold-tag-in-string"
-  },
-  {
     "difficulty": "Easy",
     "name": "Merge Two Binary Trees",
     "number": 617,
@@ -3295,14 +2689,38 @@
   },
   {
     "difficulty": "Easy",
-    "name": "Maximum Distance in Arrays",
-    "number": 624,
-    "url": "https://leetcode.com/problems/maximum-distance-in-arrays"
+    "name": "Maximum Product of Three Numbers",
+    "number": 628,
+    "url": "https://leetcode.com/problems/maximum-product-of-three-numbers"
   },
   {
     "difficulty": "Medium",
-    "name": "Minimum Factorization",
-    "number": 625,
-    "url": "https://leetcode.com/problems/minimum-factorization"
+    "name": "K Inverse Pairs Array",
+    "number": 629,
+    "url": "https://leetcode.com/problems/k-inverse-pairs-array"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Course Schedule III",
+    "number": 630,
+    "url": "https://leetcode.com/problems/course-schedule-iii"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Smallest Range",
+    "number": 632,
+    "url": "https://leetcode.com/problems/smallest-range"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Sum of Square Numbers",
+    "number": 633,
+    "url": "https://leetcode.com/problems/sum-of-square-numbers"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Design Log Storage System",
+    "number": 635,
+    "url": "https://leetcode.com/problems/design-log-storage-system"
   }
 ]
