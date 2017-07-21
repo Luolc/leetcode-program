@@ -8,6 +8,10 @@ I created this as a productive tool for practicing LeetCode online judge. It is 
 in the near future. It aims to use the powerful utilities of Travis-CI and GitHub to do the boring things: choosing
 which questions to solve, creating issue for today's task...
 
+## My Solutions
+
+Feel free to check my solutions of LeetCode questions on [http://www.luolc.com/leetcode-program/](http://www.luolc.com/leetcode-program/). :D
+
 ## Setup
 
 ### Fork and Clone
@@ -48,20 +52,31 @@ $ python3 core/core.py update_local_questions --js_path=/usr/local/bin/phantomjs
 
 ### Create random daily tasks
 
-This will create random tasks as issues in this repository. The number of tasks could be set in `core/constant.py`.
+This would create random tasks as issues in this repository. The number of tasks could be set in `core/constant.py`.
 
 ```bash
-$ python3 core/core.py create_daily_task --token=GITHUB_TOKEN
+$ python3 core/core.py create_daily_task --token=$GITHUB_TOKEN
 ```
 
 Travis-CI has cron jobs running the command every day. But you could still run it manually to create issues,
 in case you want some more questions to practice some day. :D
 
+### Generate solution pages
+
+This would help you generate the solution pages from the source in `res/solutions` folder.
+The generated solutions would be in `build` folder. 
+
+```bash
+$ python3 core/core.py generate_solutions
+```
+
+With the help of Travis-CI, the solutions would be deployed to [GitHub Pages of this repository](http://www.luolc.com/leetcode-program/).
+
 ## To-Do List
 
 - [x] LeetCode problems spider
 - [x] Automatic issue creator powered by Travis-CI
-- [ ] Solution page generation and deployment
+- [x] Solution page generation and deployment
 - [ ] Testing the solutions' format.
 
 ## Author
