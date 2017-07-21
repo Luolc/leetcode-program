@@ -9,3 +9,4 @@ ghostdriver.log
 
 __pycache__/
 .secret
+build

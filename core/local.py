@@ -11,6 +11,10 @@ class LocalResource:
         return questions
 
     @staticmethod
+    def get_question(number):
+        return next(q for q in LocalResource.get_questions() if q['number'] == number)
+
+    @staticmethod
     def get_solved_questions():
         questions = LocalResource.get_questions()
         # Solved questions are which listed in '/res/solutions/' directory.

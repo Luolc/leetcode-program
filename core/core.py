@@ -3,6 +3,7 @@ import json
 from spider import Spider
 from cron import Cron
 from constant import Constant
+from generator import Generator
 
 
 class Main:
@@ -16,6 +17,10 @@ class Main:
     @staticmethod
     def create_daily_task(token):
         Cron(token).create_daily_task()
+
+    @staticmethod
+    def generate_solutions():
+        Generator().generate()
 
 if __name__ == '__main__':
     fire.Fire(Main)

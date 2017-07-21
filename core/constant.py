@@ -13,8 +13,12 @@ class Constant:
         'Hard': 1,
     }
 
-    RES_PATH = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) + '/../res/'
+    ROOT_PATH = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) + '/../'
+
+    RES_PATH = ROOT_PATH + 'res/'
 
     QUESTIONS_PATH = RES_PATH + 'leetcode-questions.json'
 
     SOLUTIONS_PATH = RES_PATH + 'solutions/'
+
+    BUILD_PATH = ROOT_PATH + 'build/'
