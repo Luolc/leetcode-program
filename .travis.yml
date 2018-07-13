@@ -9,7 +9,7 @@ install:
 script: pytest test
 
 after_success:
-  - if [[ $TRAVIS_EVENT_TYPE = push ]]; then python3 core/core.py generate_solutions; fi
+  - python3 core/core.py generate_solutions
   - if [[ $TRAVIS_EVENT_TYPE = cron ]]; then python3 core/core.py create_daily_task --token=$GITHUB_TOKEN; fi
 
 deploy:
