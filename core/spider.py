@@ -1,4 +1,5 @@
 from selenium import webdriver
+import selenium.webdriver.support.ui as ui
 from selenium.common.exceptions import NoSuchElementException
 
 
@@ -10,13 +11,25 @@ class Spider:
 
     def fetch_questions(self):
         driver = webdriver.PhantomJS(self.__js_path__)
+
+        # Wait until the page is loaded
+        print('[INFO] Waiting for page to be fully loaded...')
+        wait = ui.WebDriverWait(driver, 10)
         driver.get(self.__URL__)
+        wait.until(lambda d: d.find_element_by_xpath(r"//span[@class='row-selector']"))
+
         # Show all the problems
-        driver.find_element_by_xpath(r"//span[@class='row-selector']/select[@class='form-control']").send_keys('all')
+        driver.find_element_by_xpath(
+            r"//span[@class='row-selector']/select[@class='form-control']").send_keys('all')
+        print('[INFO] Loaded. Show all the problems.')
+
         questions = []
-        question_amount = 0
-        for q in driver.find_elements_by_xpath(
-                r"//table[@class='table table-striped']//tbody[@class='reactable-data']//tr"):
+        tr_elements = driver.find_elements_by_xpath(
+            r"//table[@class='table table-striped']//tbody[@class='reactable-data']//tr")
+        question_amount = len(tr_elements)
+        print('[INFO] Total: {} problems'.format(question_amount))
+
+        for q in tr_elements:
             locked = True
             try:
                 q.find_element_by_xpath(r"td[3]//i")
@@ -36,6 +49,7 @@ class Spider:
                 'name': name,
                 'difficulty': difficulty
             })
-            question_amount += 1
+            print('[INFO] Problem {} fetched.'.format(number))
+
         print('[INFO] Fetching completed. %d problems have been fetched.' % question_amount)
         return questions

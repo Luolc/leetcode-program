@@ -22,5 +22,6 @@ class Main:
     def generate_solutions():
         Generator().generate()
 
+
 if __name__ == '__main__':
     fire.Fire(Main)
