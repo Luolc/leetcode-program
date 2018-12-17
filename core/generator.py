@@ -6,14 +6,17 @@ from local import LocalResource
 class Generator:
     @staticmethod
     def generate():
-        index = '## Solutions\n'
+        index = '[GitHub Sources](https://github.com/{}/leetcode-program)\n'.format(
+            Constant.USERNAME)
+        index = index + '## Solutions\n'
 
         for q in LocalResource.get_solved_questions():
             index = index + '[#{}: {}](solutions/{})\n'.format(q['number'], q['name'], q['number'])
             content = '# Question {}: {}\n'.format(q['number'], q['name'])
             content = content + '[Link]({})\n\n'.format(q['url'])
             content = content + '## Solution\n'
-            with open(os.path.join(Constant.SOLUTIONS_PATH, '{}/solution.md'.format(q['number'])), 'r') as f:
+            with open(os.path.join(Constant.SOLUTIONS_PATH, '{}/solution.md'.format(q['number'])),
+                      'r') as f:
                 content = content + f.read()
             content = content + '\n## Code\n'
 
@@ -21,7 +24,8 @@ class Generator:
                 if file_name == 'code.java':
                     content = content + '#### Java\n'
                     content = content + '```java\n'
-                    with open(os.path.join(Constant.SOLUTIONS_PATH, '{}/{}'.format(q['number'], file_name)), 'r') as f:
+                    with open(os.path.join(Constant.SOLUTIONS_PATH,
+                                           '{}/{}'.format(q['number'], file_name)), 'r') as f:
                         content = content + f.read()
                     content = content + '```\n'
 
