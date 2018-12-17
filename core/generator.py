@@ -11,7 +11,8 @@ class Generator:
         index = index + '## Solutions\n'
 
         for q in LocalResource.get_solved_questions():
-            index = index + '[#{}: {}](solutions/{})\n'.format(q['number'], q['name'], q['number'])
+            index = index + '- [#{}: {}](solutions/{})\n'.format(q['number'], q['name'],
+                                                                 q['number'])
             content = '# Question {}: {}\n'.format(q['number'], q['name'])
             content = content + '[Link]({})\n\n'.format(q['url'])
             content = content + '## Solution\n'
