@@ -2160,7 +2160,7 @@
     "url": "https://leetcode.com/problems/circular-array-loop"
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "Hard",
     "name": "Poor Pigs",
     "number": 458,
     "url": "https://leetcode.com/problems/poor-pigs"
@@ -2268,7 +2268,7 @@
     "url": "https://leetcode.com/problems/generate-random-point-in-a-circle"
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "Hard",
     "name": "Largest Palindrome Product",
     "number": 479,
     "url": "https://leetcode.com/problems/largest-palindrome-product"
@@ -2410,6 +2410,12 @@
     "name": "Most Frequent Subtree Sum",
     "number": 508,
     "url": "https://leetcode.com/problems/most-frequent-subtree-sum"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Fibonacci Number",
+    "number": 509,
+    "url": "https://leetcode.com/problems/fibonacci-number"
   },
   {
     "difficulty": "Medium",
@@ -3366,7 +3372,7 @@
     "url": "https://leetcode.com/problems/cherry-pickup"
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "name": "Network Delay Time",
     "number": 743,
     "url": "https://leetcode.com/problems/network-delay-time"
@@ -4510,5 +4516,413 @@
     "name": "Delete Columns to Make Sorted",
     "number": 944,
     "url": "https://leetcode.com/problems/delete-columns-to-make-sorted"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Minimum Increment to Make Array Unique",
+    "number": 945,
+    "url": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Validate Stack Sequences",
+    "number": 946,
+    "url": "https://leetcode.com/problems/validate-stack-sequences"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Most Stones Removed with Same Row or Column",
+    "number": 947,
+    "url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Bag of Tokens",
+    "number": 948,
+    "url": "https://leetcode.com/problems/bag-of-tokens"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Largest Time for Given Digits",
+    "number": 949,
+    "url": "https://leetcode.com/problems/largest-time-for-given-digits"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Reveal Cards In Increasing Order",
+    "number": 950,
+    "url": "https://leetcode.com/problems/reveal-cards-in-increasing-order"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Flip Equivalent Binary Trees",
+    "number": 951,
+    "url": "https://leetcode.com/problems/flip-equivalent-binary-trees"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Largest Component Size by Common Factor",
+    "number": 952,
+    "url": "https://leetcode.com/problems/largest-component-size-by-common-factor"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Verifying an Alien Dictionary",
+    "number": 953,
+    "url": "https://leetcode.com/problems/verifying-an-alien-dictionary"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Array of Doubled Pairs",
+    "number": 954,
+    "url": "https://leetcode.com/problems/array-of-doubled-pairs"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Delete Columns to Make Sorted II",
+    "number": 955,
+    "url": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Tallest Billboard",
+    "number": 956,
+    "url": "https://leetcode.com/problems/tallest-billboard"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Prison Cells After N Days",
+    "number": 957,
+    "url": "https://leetcode.com/problems/prison-cells-after-n-days"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Check Completeness of a Binary Tree",
+    "number": 958,
+    "url": "https://leetcode.com/problems/check-completeness-of-a-binary-tree"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Regions Cut By Slashes",
+    "number": 959,
+    "url": "https://leetcode.com/problems/regions-cut-by-slashes"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Delete Columns to Make Sorted III",
+    "number": 960,
+    "url": "https://leetcode.com/problems/delete-columns-to-make-sorted-iii"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "N-Repeated Element in Size 2N Array",
+    "number": 961,
+    "url": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Maximum Width Ramp",
+    "number": 962,
+    "url": "https://leetcode.com/problems/maximum-width-ramp"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Minimum Area Rectangle II",
+    "number": 963,
+    "url": "https://leetcode.com/problems/minimum-area-rectangle-ii"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Least Operators to Express Number",
+    "number": 964,
+    "url": "https://leetcode.com/problems/least-operators-to-express-number"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Univalued Binary Tree",
+    "number": 965,
+    "url": "https://leetcode.com/problems/univalued-binary-tree"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Vowel Spellchecker",
+    "number": 966,
+    "url": "https://leetcode.com/problems/vowel-spellchecker"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Numbers With Same Consecutive Differences",
+    "number": 967,
+    "url": "https://leetcode.com/problems/numbers-with-same-consecutive-differences"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Binary Tree Cameras",
+    "number": 968,
+    "url": "https://leetcode.com/problems/binary-tree-cameras"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Pancake Sorting",
+    "number": 969,
+    "url": "https://leetcode.com/problems/pancake-sorting"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Powerful Integers",
+    "number": 970,
+    "url": "https://leetcode.com/problems/powerful-integers"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Flip Binary Tree To Match Preorder Traversal",
+    "number": 971,
+    "url": "https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Equal Rational Numbers",
+    "number": 972,
+    "url": "https://leetcode.com/problems/equal-rational-numbers"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "K Closest Points to Origin",
+    "number": 973,
+    "url": "https://leetcode.com/problems/k-closest-points-to-origin"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Subarray Sums Divisible by K",
+    "number": 974,
+    "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Odd Even Jump",
+    "number": 975,
+    "url": "https://leetcode.com/problems/odd-even-jump"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Largest Perimeter Triangle",
+    "number": 976,
+    "url": "https://leetcode.com/problems/largest-perimeter-triangle"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Squares of a Sorted Array",
+    "number": 977,
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Longest Turbulent Subarray",
+    "number": 978,
+    "url": "https://leetcode.com/problems/longest-turbulent-subarray"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Distribute Coins in Binary Tree",
+    "number": 979,
+    "url": "https://leetcode.com/problems/distribute-coins-in-binary-tree"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Unique Paths III",
+    "number": 980,
+    "url": "https://leetcode.com/problems/unique-paths-iii"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Time Based Key-Value Store",
+    "number": 981,
+    "url": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Triples with Bitwise AND Equal To Zero",
+    "number": 982,
+    "url": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Minimum Cost For Tickets",
+    "number": 983,
+    "url": "https://leetcode.com/problems/minimum-cost-for-tickets"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "String Without AAA or BBB",
+    "number": 984,
+    "url": "https://leetcode.com/problems/string-without-aaa-or-bbb"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Sum of Even Numbers After Queries",
+    "number": 985,
+    "url": "https://leetcode.com/problems/sum-of-even-numbers-after-queries"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Interval List Intersections",
+    "number": 986,
+    "url": "https://leetcode.com/problems/interval-list-intersections"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Vertical Order Traversal of a Binary Tree",
+    "number": 987,
+    "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Smallest String Starting From Leaf",
+    "number": 988,
+    "url": "https://leetcode.com/problems/smallest-string-starting-from-leaf"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Add to Array-Form of Integer",
+    "number": 989,
+    "url": "https://leetcode.com/problems/add-to-array-form-of-integer"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Satisfiability of Equality Equations",
+    "number": 990,
+    "url": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Broken Calculator",
+    "number": 991,
+    "url": "https://leetcode.com/problems/broken-calculator"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Subarrays with K Different Integers",
+    "number": 992,
+    "url": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Cousins in Binary Tree",
+    "number": 993,
+    "url": "https://leetcode.com/problems/cousins-in-binary-tree"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Rotting Oranges",
+    "number": 994,
+    "url": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Minimum Number of K Consecutive Bit Flips",
+    "number": 995,
+    "url": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Number of Squareful Arrays",
+    "number": 996,
+    "url": "https://leetcode.com/problems/number-of-squareful-arrays"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Find the Town Judge",
+    "number": 997,
+    "url": "https://leetcode.com/problems/find-the-town-judge"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Maximum Binary Tree II",
+    "number": 998,
+    "url": "https://leetcode.com/problems/maximum-binary-tree-ii"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Available Captures for Rook",
+    "number": 999,
+    "url": "https://leetcode.com/problems/available-captures-for-rook"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Minimum Cost to Merge Stones",
+    "number": 1000,
+    "url": "https://leetcode.com/problems/minimum-cost-to-merge-stones"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Grid Illumination",
+    "number": 1001,
+    "url": "https://leetcode.com/problems/grid-illumination"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Find Common Characters",
+    "number": 1002,
+    "url": "https://leetcode.com/problems/find-common-characters"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Check If Word Is Valid After Substitutions",
+    "number": 1003,
+    "url": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Max Consecutive Ones III",
+    "number": 1004,
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Maximize Sum Of Array After K Negations",
+    "number": 1005,
+    "url": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Clumsy Factorial",
+    "number": 1006,
+    "url": "https://leetcode.com/problems/clumsy-factorial"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Minimum Domino Rotations For Equal Row",
+    "number": 1007,
+    "url": "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Construct Binary Search Tree from Preorder Traversal",
+    "number": 1008,
+    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Complement of Base 10 Integer",
+    "number": 1012,
+    "url": "https://leetcode.com/problems/complement-of-base-10-integer"
+  },
+  {
+    "difficulty": "Easy",
+    "name": "Pairs of Songs With Total Durations Divisible by 60",
+    "number": 1013,
+    "url": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
+  },
+  {
+    "difficulty": "Medium",
+    "name": "Capacity To Ship Packages Within D Days",
+    "number": 1014,
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+  },
+  {
+    "difficulty": "Hard",
+    "name": "Numbers With Repeated Digits",
+    "number": 1015,
+    "url": "https://leetcode.com/problems/numbers-with-repeated-digits"
   }
 ]
