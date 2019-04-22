@@ -18,6 +18,7 @@ class LocalResource:
     def get_solved_questions():
         questions = LocalResource.get_questions()
         # Solved questions are which listed in '/res/solutions/' directory.
+        # map(lambda x:x+2, [1, 2, 3])  ----->  [3, 4, 5]
         try:
             solved_questions = list(map(lambda x: int(x), os.listdir(Constant.SOLUTIONS_PATH)))
         except FileNotFoundError:

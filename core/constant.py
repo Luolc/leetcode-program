@@ -4,13 +4,13 @@ import inspect
 
 class Constant:
     # GitHub user name
-    USERNAME = 'Luolc'
+    USERNAME = 'liyingzhi'
 
     # The amount of tasks to each every day
     CRON_CONFIG = {
-        'Easy': 0,
+        'Easy': 1,
         'Medium': 0,
-        'Hard': 1,
+        'Hard': 0,
     }
 
     ROOT_PATH = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) + '/../'
